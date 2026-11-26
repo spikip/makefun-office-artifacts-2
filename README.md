@@ -6,19 +6,21 @@
 
 ## About this entry
 
-The placard treats a stapler, the most ordinary object on any
-desk, as an ancient artifact dug from a lost civilisation. It
-carries everything a real placard needs: a catalogue date of
-c. 2019, a material of steel and plastic, and a donor, the
-Department of Lost Paperclips. The framing does the joking:
-office workers become scribes, stapling becomes a binding
-ritual, and the donor's name lands a second joke, because the
-department never got its paperclips back, a small office tragedy
-everyone recognises at once. The line is one sentence, dry in a
-curator's voice, and it stays inside the one hundred and eighty
-character cap. The program holds the placard, checks it against
-that cap, and writes it to /output/entry.txt exactly as the
-bounty requires.
+The placard treats a stapler, the most ordinary object on any desk,
+as an ancient artifact dug from a lost civilisation. It carries
+everything a real museum label needs: a catalogue date of c. 2019, a
+material of steel and plastic, and a donor, the Department of Lost
+Paperclips. The framing does the joking — office workers become
+scribes, stapling becomes a binding ritual — and the donor's name
+lands a second joke, because the department never got its paperclips
+back, a small office tragedy everyone recognises at once. There are
+two jokes in one line rather than one stretched thin: the ritual
+framing first, then the lost paperclips as a dry kicker, the way a
+curator would deliver it without smiling. The line is one sentence,
+written in a curator's voice, and it sits at 150 of the allowed 180
+characters. The program holds the placard, checks it against the
+cap, and writes it to `/output/entry.txt` exactly as the bounty
+requires.
 
 ## Run it
 
